@@ -27,7 +27,7 @@ Despite this I have been a passionate rock climber, that in 2017 had the opportu
 * [**Full Stack Software Enginner, Weventual - Opensoft**](#)  
     04/2015 - 12/2017  
     Senior position. Work performed remotely.  
-    Project: https://www.weventual.com  
+    Project: [Weventual](https://www.weventual.com)  
       
     **Tasks and responsibilities:**  
     * Covering the application full cycle development, always with an engineering perspective;  
@@ -45,7 +45,7 @@ Despite this I have been a passionate rock climber, that in 2017 had the opportu
 * [**Full Stack Software Enginner, Integritas**](#) 
     08/2015 - 10/2016  
     Senior position. Work performed remotely.  
-    Project: https://www.aimswebplus.com  
+    Project: [aimswebPlus](https://www.aimswebplus.com)  
       
     **Tasks and responsibilities:**  
     * Covering the application full cycle development;  
@@ -65,7 +65,7 @@ Despite this I have been a passionate rock climber, that in 2017 had the opportu
 * [**Full Stack Software Enginner, Opensoft**](#)  
     09/2014 - 04/2015  
     Senior position.  
-    Project: http://www.portaldasfinancas.gov.pt  
+    Project: [Portal das Finanças](http://www.portaldasfinancas.gov.pt)  
       
     **Tasks and responsibilities:**  
     * Covering the application full cycle development, always with an engineering perspective;  
@@ -85,7 +85,7 @@ Despite this I have been a passionate rock climber, that in 2017 had the opportu
 * [**Software Enginner, Opensoft**](#)  
     05/2012 - 08/2014  
     Junior position.  
-    Project: http://www.portaldasfinancas.gov.pt  
+    Project: [Portal das Finanças](http://www.portaldasfinancas.gov.pt)  
       
     **Tasks and responsibilities:**  
     * Analysis of small-scale projects, preparation of modules and SW programs, unit testing and integration;  
