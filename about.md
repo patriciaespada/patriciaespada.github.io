@@ -25,15 +25,18 @@ Despite this I have been a passionate rock climber, that in 2017 had the opportu
 ## Roles
 
 * [**Full Stack Software Enginner, Weventual - Opensoft**](#) 
-   04/2015 - 12/2017
-    Senior position.
-    Work performed remotely.
-    Project: https://www.weventual.com
+
+    04/2015 - 12/2017
+   
+    Senior position. Work performed remotely.
+    Project: https://www.weventual.com
+   
     **Tasks and responsibilities:**
     * Covering the application full cycle development, always with an engineering perspective;
     * Responsibility for live releases, including analysis of reported issues;
     * Responsibility software maintenance including all the classes – corrective, adaptative, preventive;
     * Preparation of technical documentation, namely analysis and solution architecture.
+    
     **Main technologies involved:**
     * Java, JavaScript, HTML5, CSS3, Bootstrap and MySql;
     * Jenkins (continuous integration), SonarQube (code review) and Git (version control);
